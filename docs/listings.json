@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Perceptron/Implementing_perceptron.html",
       "/posts/example-blog-post/index.html"
     ]
   }
