@@ -3,7 +3,6 @@
     "listing": "/index.html",
     "items": [
       "/posts/Penguins/ClassifyingPenguins.html",
-      "/posts/MLProject/Code.html",
       "/posts/TimnitGebru/LearningFromTimnitGebru.html",
       "/posts/LogisticRegression/Optimizing_logisitcregression.html",
       "/posts/Perceptron/Implementing_perceptron.html",
