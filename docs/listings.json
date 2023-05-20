@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/LinearRegression/ImplementingLinearRegression.html",
       "/posts/Penguins/ClassifyingPenguins.html",
       "/posts/MLProject/Code.html",
       "/posts/TimnitGebru/LearningFromTimnitGebru.html",
